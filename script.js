@@ -19,7 +19,7 @@ function tellmejoke() {
     console.log(joke);
     VoiceRSS.speech({
         key: '4409b62bd4db4b74a99ff575d6b6f116',
-        src: `${joke} ... hhaaaaahhaha`,
+        src: `${joke} ... hhhhhaha`,
         hl: 'en-us',
         v: 'Linda',
         r: 0,
